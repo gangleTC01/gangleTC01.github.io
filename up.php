@@ -7,7 +7,7 @@
  * @Description: 
  */
 /*
-URL http://www.gangl.gq/
+URL https://gangl.gq/
 
 注意事项：
 1. php中开启 Curl扩展
@@ -35,7 +35,7 @@ define("TYPE","GITHUB");//选择github
 
 define("USER","gangleTC01");//你的GitHub/Gitee的用户名
 
-define("REPO","TC");//必须是上面用户名下的 公开仓库
+define("REPO","gangleTC01.github.io");//必须是上面用户名下的 公开仓库
 
 define("MAIL","gangleTC01@protonmail.com");//邮箱无所谓，随便写
 
