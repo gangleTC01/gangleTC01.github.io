@@ -7,7 +7,7 @@
  * @Description: 
  */
 /*
-URL https://gangl.gq/
+URL https://gangletc01.github.io/
 
 注意事项：
 1. php中开启 Curl扩展
